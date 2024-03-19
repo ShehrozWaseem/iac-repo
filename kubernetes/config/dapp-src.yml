@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com/Selvamraju007/podinfo-app
+  url: https://github.com/ShehrozWaseem/iac-repo
